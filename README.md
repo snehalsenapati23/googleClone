@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 - ## Directory structure
 - The directory structure is organized around the following main components:
 
--src: This folder contains the source code for the React application.
+- src: This folder contains the source code for the React application.
 -assets: This folder contains static assets like images and fonts.
 -components: This folder contains reusable React components that make up the UI.
 -pages: This folder contains page-specific components and styles.
